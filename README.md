@@ -1,4 +1,4 @@
-<img width="891" height="525" alt="Screenshot 2026-05-22 084234" src="https://github.com/user-attachments/assets/52d8d334-85f0-435c-9a7f-03551026502b" />
+<img width="896" height="536" alt="Screenshot 2026-05-22 084400" src="https://github.com/user-attachments/assets/15b1191f-75cb-4648-a313-5b2c2933c4a4" />
 
 # 🐾 Sheltie Quiz
 
@@ -19,6 +19,8 @@ Ein interaktives Wissensquiz über Shetland Sheepdogs – entstanden als erstes 
 > 💬 **Kontextsensitives Feedback** – Ergebnisscreen zeigt je nach Punktzahl unterschiedliche Texte
 
 ---
+
+<img width="891" height="525" alt="Screenshot 2026-05-22 084234" src="https://github.com/user-attachments/assets/52d8d334-85f0-435c-9a7f-03551026502b" />
 
 ## 🎮 Spielablauf
 
